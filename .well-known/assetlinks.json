@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ugtnusantara.myugt",
+      "sha256_cert_fingerprints": [
+        "76:A9:E0:FD:AF:1D:88:BB:D8:73:12:CD:CC:D2:FC:4D:4D:08:1E:C5:55:F9:7C:1F:A4:5B:22:2B:A1:6D:5D:0A"
+      ]
+    }
+  }
+]
